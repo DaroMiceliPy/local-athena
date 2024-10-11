@@ -42,7 +42,7 @@ class financial_data(Athena):
             "dtype": "double"
         },
         "Volume": {
-            "dtype": "int"
+            "dtype": "double"
         },
         "Symbol": {
             "dtype": "string"
