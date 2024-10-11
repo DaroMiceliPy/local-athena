@@ -1,6 +1,6 @@
 # Local Athena Mock Example
 
-## Créditos
+## Credits
 This project is based in Mothena ((https://github.com/sfrancavilla/mothena)), created by sfrancavilla.
 
 ## Run
